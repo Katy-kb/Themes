@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">111</string>
+    <string name="random" translatable="false">Random</string>
+    <string name="next_activity" translatable="false">next_activity</string>
+    <string name="hello">hello</string>
+    <string name="hellooo">Hellooo</string>
+    <string name="bye">Bye</string>
+    <string name="next_activity2">next activity</string>
+</resources>
